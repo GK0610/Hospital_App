@@ -24,7 +24,7 @@ For Doing Crude Operations
         "NameHospital": "Hospitalname",
         "PatientCount": count,
         "HospitalLocation": "Place"
-    },
+    }
 
  * For Perform PUT Operation
 	
